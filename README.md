@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/harrisfoes/fem-qrcode)
+- Live Site URL: [here](https://harrisfoes.github.io/fem-qrcode/)
 
 ### Built with
 
@@ -31,13 +31,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I've recently learned that I liked implementing aesthetically pleasing CSS designs more than creating React apps - where I struggled to find unique ideas to implement. Frontend Mentor is giving me the project-based education to pursue this path, and now I can keep moving forward.
+I've recently learned that I liked implementing aesthetically pleasing CSS designs more than creating React apps (where I struggled to find unique ideas to implement). Frontend Mentor is giving me the project-based education to pursue this path, and now I can keep moving forward.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Harris Escalante](https://harrisfoes.github.io/portfolio-page/)
+- Frontend Mentor - [@harrisfoes](https://www.frontendmentor.io/profile/harrisfoes)
 
 ## Acknowledgments
 
